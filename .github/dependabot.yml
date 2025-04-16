@@ -1,4 +1,4 @@
-version: 2
+[![Step 0, Welcome](https://github.com/Rucellmai61/skills-deploy-to-azure/actions/workflows/0-welcome.yml/badge.svg)](https://github.com/Rucellmai61/skills-deploy-to-azure/actions/workflows/0-welcome.yml)version: 2
 updates:
   - package-ecosystem: "github-actions"
     directory: "/"
